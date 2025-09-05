@@ -92,3 +92,7 @@ target/
 # environment
 .venv/
 /run_information.json
+
+/resampled_data.csv
+/train.csv
+/test.csv
