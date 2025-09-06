@@ -134,7 +134,7 @@ pygtrie==2.5.0
 pyparsing==3.2.1
 python-dateutil==2.9.0.post0
 pytz==2025.1
-pywin32==308; platform_system == "Windows"
+pywin32==308
 PyYAML==6.0.2
 requests==2.32.3
 requests-toolbelt==1.0.0
